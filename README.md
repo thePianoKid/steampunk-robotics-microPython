@@ -7,3 +7,5 @@ This repo is supposed to be a reference point if you are unsure as to how to sta
 ## Installation 🔧
 
 > The installation is explained in detail on the [LEGO education site](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/python-for-ev3). 
+
+Once all the required software is installed on the EV3, simply clone the repo and use the code in the `main.py` file.
